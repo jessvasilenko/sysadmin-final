@@ -89,3 +89,8 @@ To destroy your infrastructure:
 cd terraform
 terraform destroy
 ```
+
+## Resources: 
+- [Terraform AWS Provider Docs](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
+- [Docker Minecraft Server](https://hub.docker.com/r/itzg/minecraft-server)
+- [GitHub Markdown Syntax Guide](https://docs.github.com/en/get-started/writing-on-github)
